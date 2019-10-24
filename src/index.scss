@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+$mainBlack: #080808;
+$mainGreen: #42f55a;
+$mainWhite: #ffffff;
+$mainGray: #eff2ed;
+$mainTransition: all 0.3s linear;
+
+
+body {
+ font-family: 'Merriweather', serif;
+ background: $mainWhite;
+ color: $mainBlack;
+}
